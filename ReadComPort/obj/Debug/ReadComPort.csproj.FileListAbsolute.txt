@@ -1,0 +1,27 @@
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe.config
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csprojResolveAssemblyReference.cache
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Form1.resources
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Properties.Resources.resources
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csproj.GenerateResource.Cache
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\bin\Debug\ReadComPort.pdb
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.exe
+c:\users\amit\documents\visual studio 2013\Projects\ReadComPort\ReadComPort\obj\Debug\ReadComPort.pdb
+D:\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe.config
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.exe
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.pdb
+D:\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe
+D:\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.pdb
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csprojResolveAssemblyReference.cache
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Form1.resources
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Properties.Resources.resources
+D:\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csproj.GenerateResource.Cache
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe.config
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.exe
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.pdb
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.exe
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\bin\Debug\ReadComPort.pdb
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csprojResolveAssemblyReference.cache
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Form1.resources
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.Properties.Resources.resources
+F:\Study\Work File\Marsh Rover Project\ReadComPort\ReadComPort\obj\Debug\ReadComPort.csproj.GenerateResource.Cache
